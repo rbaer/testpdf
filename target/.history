@@ -1,0 +1,7 @@
+exit
+jetty-run
+jetty-restart
+exit
+make
+node make server
+exit
